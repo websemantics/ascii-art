@@ -1,3 +1,5 @@
+[Entity Builder Extension](https://github.com/websemantics/entity_builder-extension), Scaffold your PyroCMS apps in style for a more pleasurable and productive coding experience.
+
 ```
 
                                              /'\
@@ -34,7 +36,8 @@
 
 
 ```   
-[Entity Builder Extension](https://github.com/websemantics/entity_builder-extension), Scaffold your PyroCMS apps in style for a more pleasurable and productive coding experience.
+
+[Strawberry AI](https://github.com/websemantics/Strawberry-AI), Learning to open the web doors, .. the idea is to create an AI that learns how to register and login to webpages
 
 ```
                                             O
@@ -62,7 +65,7 @@
 
 ```  
 
-[Strawberry AI](https://github.com/websemantics/Strawberry-AI), Learning to open the web doors, .. the idea is to create an AI that learns how to register and login to webpages
+[Gitters](https://github.com/websemantics/gitters), Straightforward Github reader with cache
 
 ```        
                 ░░░░░░░░░
@@ -81,7 +84,7 @@
           Straightforward Github reader with cache
 ```
 
-[Gitters](https://github.com/websemantics/gitters)
+[Strong Together](https://github.com/websemantics/strong-together), A starter project to build single page Vue.js apps as stand-alone or for Laravel / Laravel Spark projects; based on Browserify and Semantic-UI
 
 ```                 
                                 .   
@@ -108,7 +111,7 @@
            ___]  |  |  \ |__| | \| |__]     |  |__| |__] |___  |  |  | |___ |  \
 ```
 
-[Strong Together](https://github.com/websemantics/strong-together), A starter project to build single page Vue.js apps as stand-alone or for Laravel / Laravel Spark projects; based on Browserify and Semantic-UI
+[Awesome Semantic UI](https://github.com/websemantics/awesome-semantic-ui), a curated list of Semantic-UI resources and related projects http://semantic-ui.com
 
 ```   
  __________________________    
@@ -125,7 +128,7 @@
 |░░░░░░░░░░░░░░░░░░░░░░░░░░|
 ```
 
-[Awesome Semantic UI](https://github.com/websemantics/awesome-semantic-ui), a curated list of Semantic-UI resources and related projects http://semantic-ui.com
+[Larder](https://github.com/websemantics/larder), straightforward, in browser cache using local storage.
 
 ```        
           ______________________________________       
@@ -151,7 +154,7 @@
 
 ```
 
-[Larder](https://github.com/websemantics/larder), straightforward, in browser cache using local storage.
+[Semantic Dojo](https://github.com/websemantics/semantic-dojo)
 
 ```
                    __________________________
@@ -171,7 +174,7 @@
                                                                          \___/                               
 ```
 
-[Semantic Dojo](https://github.com/websemantics/semantic-dojo)
+[Awesome Ant Design](https://github.com/websemantics/awesome-ant-design). A curated list of Ant Design resources and related projects http://ant.design
 
 ```   
                                                                        ---.
@@ -192,7 +195,7 @@
     l__j__jl__j__j  l__j     l_____jl_____j \___j+____jl___,_jl__j__j         \          \
 ```
 
-[Awesome Ant Design](https://github.com/websemantics/awesome-ant-design). A curated list of Ant Design resources and related projects http://ant.design
+[Awesome PyroCms](https://github.com/websemantics/awesome-pyrocms), A curated list of PyroCMS addons and resources,
 
 ```
                    _____ _ _ _ _____ _____ _____ _____ _____
@@ -221,7 +224,7 @@
 
 ```
 
-[Awesome PyroCms](https://github.com/websemantics/awesome-pyrocms), A curated list of PyroCMS addons and resources,
+[Semantic Ant](https://github.com/websemantics/semantic-ant), Ant Design inspired theme for Semantic-UI
 
 ```   
                                                         ---.
@@ -246,7 +249,7 @@
                     ___]  |___  |  |  |  |  | \|   |   |  |___        |  |  | \|   |  
 ```
 
-[Semantic Ant](https://github.com/websemantics/semantic-ant), Ant Design inspired theme for Semantic-UI
+[PyrCMS Cheatsheet](https://github.com/websemantics/pyrocms-cheatsheet), A list of commands and features for PyroCMS 3
 
 ```                         
 
@@ -288,8 +291,7 @@ _ _ :                                                                   |_|: | /
 
 ```
 
-[PyrCMS Cheatsheet](https://github.com/websemantics/pyrocms-cheatsheet), A list of commands and features for PyroCMS 3
-
+[Boxed](https://github.com/websemantics/boxed), Lightweight Boilerplate Generator that does not require the Command-line Interface (CLI) to customize software addons and packages, for the Visually-oriented Developers.
 
 ```
       _   __                         _______
@@ -343,7 +345,7 @@ _ _ :                                                                   |_|: | /
                                                    \|__| BOXED
 ```
 
-[Boxed](https://github.com/websemantics/boxed), Lightweight Boilerplate Generator that does not require the Command-line Interface (CLI) to customize software addons and packages, for the Visually-oriented Developers.
+[spark Docker](https://github.com/websemantics/spark-docker), Docker container for Laravel Spark
 
 ```
 :  Solr ~   : ~.  
@@ -369,7 +371,7 @@ _ _ :                                                                   |_|: | /
                 \________ \______________________________________/
 ```
 
-[spark Docker](https://github.com/websemantics/spark-docker), Docker container for Laravel Spark
+[Audiz](https://github.com/websemantics/audiz), Audio visualizer, making sound waves interesting
 
 ```
            __             _______
@@ -382,7 +384,7 @@ _ _ :                                                                   |_|: | /
 
 ```
 
-[Audiz](https://github.com/websemantics/audiz), Audio visualizer, making sound waves interesting
+[Vimeo Upload](https://github.com/websemantics/vimeo-upload), Upload videos to your Vimeo account and update their metadata directly from a browser or a Node.js app
 
 ```
  _    ___                    
@@ -394,7 +396,7 @@ _ _ :                                                                   |_|: | /
 
 ```
 
-[Vimeo Upload](https://github.com/websemantics/vimeo-upload), Upload videos to your Vimeo account and update their metadata directly from a browser or a Node.js app
+[Scaffolder](https://github.com/websemantics/scaffolder), Generic data driven repository scaffolder for Github
 
 ```
                             ____
@@ -407,7 +409,7 @@ _ _ :                                                                   |_|: | /
 
 ```
 
-[Scaffolder](https://github.com/websemantics/scaffolder), Generic data driven repository scaffolder for Github
+[Awesome Patternfly](https://github.com/websemantics/awesome-patternfly), A curated list of PatternFly resources and projects
 
 ```
         ___     _____
@@ -426,7 +428,7 @@ _ _ :                                                                   |_|: | /
                 \/__/
 ```
 
-[Awesome Patternfly](https://github.com/websemantics/awesome-patternfly), A curated list of PatternFly resources and projects
+[SemaVue](https://github.com/websemantics/semavue), [DEPRECATED] Semantic-ui components built with pure Vue.js
 
 ```
 ┌──────────────────────┐                       _____          _____
@@ -442,7 +444,7 @@ _ _ :                                                                   |_|: | /
 └──────────────────────┘                                \/
 ```
 
-[SemaVue](https://github.com/websemantics/semavue), [DEPRECATED] Semantic-ui components built with pure Vue.js
+[Auto Pyro](https://github.com/websemantics/auto-pyro), PyroCMS deploy tool for faster and more pleasurable development experience
 
 ```
  ____ _  _ ___ ____                     __ __ ____ _________ _
@@ -460,7 +462,7 @@ _ _ :                                                                   |_|: | /
     PyroCMS Deploy Tool
 ```
 
-[Auto Pyro](https://github.com/websemantics/auto-pyro), PyroCMS deploy tool for faster and more pleasurable development experience
+[Kuhfs](https://github.com/cuffs/cuffs), Kuhfs is a modular UI framework for building modern web applications following common design patterns and improved user experience
 
 ```
       _______           _____        _______   _______    ______
@@ -473,7 +475,7 @@ _ _ :                                                                   |_|: | /
 
 ```
 
-[Kuhfs](https://github.com/cuffs/cuffs), Kuhfs is a modular UI framework for building modern web applications following common design patterns and improved user experience
+[Kuhfscheyn](https://github.com/cuffs/chain), Kuhfscheyn is a modular framework to build web console apps
 
 ```
    ______   _     _    CUFFS      ___     _____    _____  
@@ -487,7 +489,7 @@ _ _ :                                                                   |_|: | /
 
 ```
 
-[Kuhfscheyn](https://github.com/cuffs/chain), Kuhfscheyn is a modular framework to build web console apps
+[Kuhfsbond](https://github.com/cuffs/bond), Kuhfsbond is the reference implementation of Cuffs as a set of common Vue.js components
 
 ```
        ________     ________             ________     _______
@@ -507,7 +509,7 @@ _ _ :                                                                   |_|: | /
 
 ```
 
-[Kuhfsbond](https://github.com/cuffs/bond), Kuhfsbond is the reference implementation of Cuffs as a set of common Vue.js components
+[Kuhfskee](https://github.com/cuffs/key), Kuhfskee is a pure Vue.js implementation for Semantic-ui elements
 
 ```
                                               ╭──────┬┐┌─────────────╮
@@ -521,5 +523,3 @@ _ _ :                                                                   |_|: | /
         Unshackles the beast within           │                      │
                                               ╰────┴──────────┘└─────╯
 ```
-
-[Kuhfskee](https://github.com/cuffs/key), Kuhfskee is a pure Vue.js implementation for Semantic-ui elements
