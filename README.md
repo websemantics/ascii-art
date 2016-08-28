@@ -1,5 +1,5 @@
 
-[Themeblr](https://github.com/websemantics/themeblr), A powerful themes builder boilerplate for Bootstrap 4.
+[Themeblr](https://github.com/websemantics/themeblr), a powerful themes builder boilerplate for Bootstrap 4.
 
 ```
               :
