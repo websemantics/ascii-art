@@ -176,7 +176,7 @@
 
 ```
 
-[Semantic Dojo](https://github.com/websemantics/semantic-dojo)
+[Semantic Dojo](https://github.com/websemantics/semantic-dojo), A responsive Dojo theme that harnesses the style awesomeness of Semantic-ui framework.
 
 ```
                    __________________________
@@ -195,6 +195,22 @@
                                                                 TOOLKIT |\_/  /  
                                                                          \___/                               
 ```
+
+[Private](https://github.com), Keep it to yourself.
+```   
+       __________
+      (  ______  )
+      | |      | |
+    __| |______| |__
+   /  |_|      |_|  \    ____  ____   ____  __ __   ____  ______    ___
+  (__________________)  |    \|    \ |    ||  |  | /    ||      |  /  _]
+  |                  |  |  o  )  D  ) |  | |  |  ||  o  ||      | /  [_
+  |        __        |  |   _/|    /  |  | |  |  ||     ||_|  |_||    _]
+  |       (  )       |  |  |  |    \  |  | |  :  ||  _  |  |  |  |   [_
+  |        ||        |  |  |  |  .  \ |  |  \   / |  |  |  |  |  |     |
+  (__________________)  |__|  |__|\_||____|  \_/  |__|__|  |__|  |_____|
+
+```   
 
 [Awesome Ant Design](https://github.com/websemantics/awesome-ant-design). A curated list of Ant Design resources and related projects http://ant.design
 
